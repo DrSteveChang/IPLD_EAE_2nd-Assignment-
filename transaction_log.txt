@@ -1,2 +1,0 @@
-[2025-11-26 19:27:41] ID:9735 | CREATE | Created 'shxt' (ID: 1)
-[2025-11-26 19:28:01] ID:3068 | SALE | Sold 10 of ID 1. Total: $2500.00

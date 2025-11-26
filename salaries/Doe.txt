@@ -1,3 +1,0 @@
-John Doe
-Gross Salary: 4080.00 eur
-Net Salary: 3264.00 eur
