@@ -1,0 +1,10 @@
+Apple: 12.5 dollars
+Amazon: 5.0 dollars
+Nokia: 2 dollars
+Meta: 3.1 dollars
+Google: 7.1 dollars
+Tesla: 8.5 dollars 
+Microsoft: 4.5 dollars
+Alibaba: 2.5 dollars
+Intel: 3.8 dollars
+ASML: 11.2 dollars
