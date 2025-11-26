@@ -1,0 +1,21 @@
+id,name,telephone,has_car,birth_date,city,Continent
+1,John,123456789,True,1980-01-01,Barcelona,Europe
+2,Jane,987654321,True,1981-02-02,Paris,Europe
+3,Alice,123123123,False,1982-03-03,London,Europe
+4,Bob,456456456,True,1983-04-04,Madrid,Europe
+5,Eve,789789789,False,1984-05-05,Rome,Europe
+6,Jack,321321321,True,1985-06-06,Pekin,Asia
+7,Jill,654654654,False,1986-07-07,Amsterdam,Europe
+8,Kate,987987987,True,1987-08-08,Lima,South America
+9,Mark,159159159,False,1988-09-09,Lisbon,Europe
+10,Paul,753753753,True,1989-10-10,Kigali,Africa
+11,Bob,637838399,False,2001-01-01,Barcelona,Europe
+12,Alice,123456789,False,2002-02-02,Paris,Europe
+13,Jane,987654321,False,2003-03-03,London,Europe
+14,John,123123123,True,2004-04-04,Madrid,Europe
+15,John,456456456,True,2005-05-05,Rome,Europe
+16,Alice,789789789,False,2006-06-06,Pekin,Asia
+17,Jane,321321321,False,2007-07-07,Amsterdam,Europe
+18,John,654654654,False,2008-08-08,Lima,South America
+19,Alice,987987987,True,2009-09-09,Lisbon,Europe
+20,Jane,159159159,True,2010-10-10,Kigali,Africa
